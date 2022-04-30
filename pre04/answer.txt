@@ -1,0 +1,30 @@
+ 5.12 EXERCISE 1
+if ((x>0) && (x<10)) {
+     System.out.println("positive single digit number.");
+}
+
+ 5.12 EXERCISE 2.1
+main   bizz = 5 buzz =2
+zoop   fred = "just for" bizz = 5    just for
+ping   strangStrung = "not "         any not more
+clink  fork = 4                      It's
+zoop   fred = breakfast  bob =4      breakfast!
+
+ 5.12 EXERCISE 2.2
+Complete Output:
+just for
+any not more
+It's breakfast!
+
+
+
+5.12 EXERCISE 3
+main 
+countdown 4
+countdown 3
+countdown 2
+countdown 1
+countdown 0
+
+
+
