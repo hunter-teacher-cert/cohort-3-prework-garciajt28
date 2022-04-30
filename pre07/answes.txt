@@ -1,0 +1,28 @@
+Exercise 2
+
+banana method
+the previous element is multipled to the next element and the result will be multipled again to the next element and so on until you reach the last element in the array
+
+a is array of integer as input
+kiwi is used to hold the latest  result of multiplication of previous and latest element
+i is used to traverse the array
+
+
+
+grapefruit method
+this method is used to find the target element in the array
+
+a is array of integer as input
+grape is used to hold the target integer to compare
+i returns the index of when the target integer is found in the input array
+otherwise i return no found as -1
+
+
+pineapple method
+this method counts the number of times an element in the input array is equal to the target integer
+
+a is array of integer as input
+apple is used to hold the target integer to compare
+pine holds the value of each element of the array which is compared to apple to check if element is matched
+pear is the counter of how many elements actually matched with apple
+
