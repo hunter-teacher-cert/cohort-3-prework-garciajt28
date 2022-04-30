@@ -1,0 +1,20 @@
+EXERCISE 1.1
+If it's ping, then it prints a dot (.) and enters to a next line
+If it's baffle, then it prints wug without a next line and calls ping, the result will be wug.
+
+Output: 
+No, I wug.
+You wugga wug.
+I wug.
+
+EXERCISE 1.2
+main     No I
+zoop     No I
+baffle   No I wug
+ping     No I wug.
+
+EXERCISE 1.3
+wug.
+wug.
+
+When you call baffle at the end of the ping, it will become recursive.
