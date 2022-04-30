@@ -1,0 +1,27 @@
+7.9 Exercise 1
+
+Answer to #1
+
+iteration     i     n
+1             5     10
+2             6     10
+3             3     10
+4             4     10
+5             2     10
+6             1     10
+
+
+Answer to #2
+output
+10
+5
+6
+3
+4
+2
+
+Answer to #3
+   The else statement will always make the odd numbers to be even again.
+   When numbers are even, the condition if (i % 2 == 0) will be satisfied, and it will always divide the value by 2
+   until it reach the last iteration where i = 2 and 2 when half will always equals to 1, 
+   Since the condition to terminate the loop while(i > 1) is when i = 1, the loop is guaranteed to stop. 
